@@ -8,15 +8,14 @@ Use o ícone do índice no canto superior esquerdo deste documento para obter um
 
 ## Guia do contribuidor
 
-Para obter uma visão geral do projeto, leia o [README] (README.md). Aqui estão alguns recursos para ajudá-lo a começar com contribuições de código aberto:
+Para obter uma visão geral do projeto, leia o [README](README.md). Aqui estão alguns recursos para ajudá-lo a começar com contribuições de código aberto:
 
 - [Configurar Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
-- [fluxo GitHub](https://docs.github.com/en/get-started/quickstart/github-flow)
 - [Colaborando com solicitações pull](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
 ## Começando
 
-Para navegar em nossa base de código com confiança, leia o [README] (README.md).
+Para navegar em nossa base de código com confiança, leia o [README](README.md).
 
 ### Problemas
 
