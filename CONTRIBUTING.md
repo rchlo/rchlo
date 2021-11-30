@@ -10,9 +10,9 @@ Use o ícone do índice no canto superior esquerdo deste documento para obter um
 
 Para obter uma visão geral do projeto, leia o [README] (README.md). Aqui estão alguns recursos para ajudá-lo a começar com contribuições de código aberto:
 
-- [Configurar Git] (https://docs.github.com/en/get-started/quickstart/set-up-git)
-- [fluxo GitHub] (https://docs.github.com/en/get-started/quickstart/github-flow)
-- [Colaborando com solicitações pull] (https://docs.github.com/en/github/collaborating-with-pull-requests)
+- [Configurar Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+- [fluxo GitHub](https://docs.github.com/en/get-started/quickstart/github-flow)
+- [Colaborando com solicitações pull](https://docs.github.com/en/github/collaborating-with-pull-requests)
 
 ## Começando
 
@@ -22,7 +22,7 @@ Para navegar em nossa base de código com confiança, leia o [README] (README.md
 
 #### Crie um novo problema
 
-Se você detectar um problema, [pesquise se já existe um problema] (https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching- Issues-and-pull-requests # search-by-the-title-body-or-comments). 
+Se você detectar um problema, [pesquise se já existe um problema](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching- Issues-and-pull-requests # search-by-the-title-body-or-comments). 
 Se um problema relacionado não existir, você pode abrir um novo problema.
 
 #### Resolva um problema
@@ -40,24 +40,24 @@ Realize um fork do projeto, realize a implementação ou correção desejada e [
 
 #### Faça alterações localmente
 
-1. [Instale Git LFS] (https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage).
+1. [Instale Git LFS](https://docs.github.com/en/github/managing-large-files/versioning-large-files/installing-git-large-file-storage).
 
 2. Bifurque o repositório.
 - Usando o GitHub Desktop:
-  - [Introdução ao GitHub Desktop] (https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) irá guiá-lo na configuração do Desktop .
-  - Assim que o Desktop estiver configurado, você pode usá-lo para [bifurcar o repositório] (https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking- repositories-from-github-desktop)!
+  - [Introdução ao GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) irá guiá-lo na configuração do Desktop .
+  - Assim que o Desktop estiver configurado, você pode usá-lo para [bifurcar o repositório](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
 
 - Usando a linha de comando:
-  - [Fork the repo] (https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) para que você possa fazer suas alterações sem afetar o projeto original até que você esteja pronto para mesclá-los.
+  - [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) para que você possa fazer suas alterações sem afetar o projeto original até que você esteja pronto para mesclá-los.
 
 - Codespaces GitHub:
-  - [Fork, edit, and preview] (https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace) usando [GitHub Codespaces ] (https://github.com/features/codespaces) sem ter que instalar e executar o projeto localmente.
+  - [Fork, edit, and preview](https://docs.github.com/en/free-pro-team@latest/github/developing-online-with-codespaces/creating-a-codespace) usando [GitHub Codespaces ](https://github.com/features/codespaces) sem ter que instalar e executar o projeto localmente.
 
 3. Crie um branch de trabalho e comece com suas alterações!
 
 ### Confirme sua atualização
 
-Faça as alterações quando estiver satisfeito com elas. Consulte o [guia de contribuição do Atom] (https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages) para saber como usar emoji para enviar mensagens.
+Faça as alterações quando estiver satisfeito com elas. Consulte o [guia de contribuição do Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#git-commit-messages) para saber como usar emoji para enviar mensagens.
 
 Assim que suas alterações estiverem prontas, não se esqueça da auto-avaliação!
 
@@ -76,12 +76,12 @@ Para alterações de conteúdo, certifique-se de:
 
 Quando terminar com as alterações, crie uma solicitação pull, também conhecida como PR.
 - Preencha o modelo "Pronto para revisão" para que possamos revisar seu PR. Este modelo ajuda os revisores a entender suas alterações, bem como o propósito de sua solicitação pull.
-- Não se esqueça de [vincular PR ao problema] (https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue ) se você estiver resolvendo um.
-- Habilite a caixa de seleção para [permitir edições do mantenedor] (https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch -created-from-a-fork) para que o branch possa ser atualizado para uma fusão.
+- Não se esqueça de [vincular PR ao problema](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue ) se você estiver resolvendo um.
+- Habilite a caixa de seleção para [permitir edições do mantenedor](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch -created-from-a-fork) para que o branch possa ser atualizado para uma fusão.
 Depois de enviar seu RP, um membro da equipe do Docs analisará sua proposta. Podemos fazer perguntas ou solicitar informações adicionais.
-- Podemos solicitar que sejam feitas alterações antes que um PR possa ser mesclado, usando [alterações sugeridas] (https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating -feedback-in-your-pull-request) ou comentários de solicitação pull. Você pode aplicar as alterações sugeridas diretamente por meio da IU. Você pode fazer quaisquer outras alterações em seu fork e, em seguida, enviá-las para seu branch.
-- Conforme você atualiza seu PR e aplica as alterações, marque cada conversa como [resolvida] (https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a- pull-request # resolving-conversations).
-- Se você tiver problemas de mesclagem, verifique este [tutorial git] (https://lab.github.com/githubtraining/managing-merge-conflicts) para ajudá-lo a resolver conflitos de mesclagem e outros problemas.
+- Podemos solicitar que sejam feitas alterações antes que um PR possa ser mesclado, usando [alterações sugeridas](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) ou comentários de solicitação pull. Você pode aplicar as alterações sugeridas diretamente por meio da IU. Você pode fazer quaisquer outras alterações em seu fork e, em seguida, enviá-las para seu branch.
+- Conforme você atualiza seu PR e aplica as alterações, marque cada conversa como [resolvida](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request # resolving-conversations).
+- Se você tiver problemas de mesclagem, verifique este [tutorial git](https://lab.github.com/githubtraining/managing-merge-conflicts) para ajudá-lo a resolver conflitos de mesclagem e outros problemas.
 
 ### Seu PR foi mesclado!
 
