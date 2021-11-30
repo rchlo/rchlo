@@ -88,8 +88,8 @@ Parabéns: :tada: A equipe RCHLO agradece :sparkles:.
 
 Assim que seu PR for mesclado, suas contribuições ficarão disponíveis!
 
-Agora que você faz parte da comunidade da RCHLO, não pare por aqui, estamos ansiosos pela sua próxima contrinuição.
+Agora que você faz parte da comunidade da RCHLO, não pare por aqui, estamos ansiosos pela sua próxima contribuição.
 
 ## Segurança
 
-***- Nunca salve informações sensiveis em arquivos no repositório de GIT!***
+***- Nunca salve informações sensiveis em arquivos no repositório GIT!***
