@@ -93,3 +93,5 @@ Agora que você faz parte da comunidade da RCHLO, não pare por aqui, estamos an
 ## Segurança
 
 ***- Nunca salve informações sensiveis em arquivos no repositório GIT!***
+
+Veja mais detalhes [10 melhores práticas de segurança no github](https://snyk.io/blog/ten-git-hub-security-best-practices/).
