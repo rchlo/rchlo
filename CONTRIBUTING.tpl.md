@@ -84,7 +84,7 @@ Depois de enviar seu RP, um membro da equipe do Docs analisará sua proposta. Po
 
 ### Seu PR foi mesclado!
 
-Parabéns: :tada: A equipe RCHLO agradece: sparkles :. 
+Parabéns: :tada: A equipe RCHLO agradece :sparkles:. 
 
 Assim que seu PR for mesclado, suas contribuições ficarão disponíveis!
 
