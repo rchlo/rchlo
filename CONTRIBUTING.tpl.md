@@ -66,7 +66,7 @@ Você deve sempre revisar seu próprio PR primeiro.
 
 Para alterações de conteúdo, certifique-se de:
 
-- [x Confirme se as mudanças atendem à experiência do usuário e aos objetivos descritos no plano de design de conteúdo (se houver).
+- [x] Confirme se as mudanças atendem à experiência do usuário e aos objetivos descritos no plano de design de conteúdo (se houver).
 - [x] Compare as alterações de origem de sua solicitação pull com o teste para confirmar se a saída corresponde à origem e se tudo está sendo renderizado conforme o esperado. Isso ajuda a detectar problemas como erros de digitação, conteúdo que não segue o guia de estilo ou conteúdo que não é renderizado devido a problemas de versão. Lembre-se de que listas e tabelas podem ser complicadas.
 - [x] Revise o conteúdo quanto à precisão técnica.
 - [x] Se houver alguma falha na verificação em seu PR, solucione-a até que todas as verificações sejam aprovadas.
