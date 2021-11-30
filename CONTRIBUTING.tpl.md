@@ -21,7 +21,7 @@ Para navegar em nossa base de código com confiança, leia o [README](README.md)
 
 #### Crie um novo problema
 
-Se você detectar um problema, [pesquise se já existe um problema](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching- Issues-and-pull-requests # search-by-the-title-body-or-comments). 
+Se você detectar um problema, [pesquise se já existe um problema](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests # search-by-the-title-body-or-comments). 
 Se um problema relacionado não existir, você pode abrir um novo problema.
 
 #### Resolva um problema
@@ -76,10 +76,10 @@ Para alterações de conteúdo, certifique-se de:
 Quando terminar com as alterações, crie uma solicitação pull, também conhecida como PR.
 - Preencha o modelo "Pronto para revisão" para que possamos revisar seu PR. Este modelo ajuda os revisores a entender suas alterações, bem como o propósito de sua solicitação pull.
 - Não se esqueça de [vincular PR ao problema](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue ) se você estiver resolvendo um.
-- Habilite a caixa de seleção para [permitir edições do mantenedor](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch -created-from-a-fork) para que o branch possa ser atualizado para uma fusão.
+- Habilite a caixa de seleção para [permitir edições do mantenedor](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork) para que o branch possa ser atualizado para uma fusão.
 Depois de enviar seu RP, um membro da equipe do Docs analisará sua proposta. Podemos fazer perguntas ou solicitar informações adicionais.
 - Podemos solicitar que sejam feitas alterações antes que um PR possa ser mesclado, usando [alterações sugeridas](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/incorporating-feedback-in-your-pull-request) ou comentários de solicitação pull. Você pode aplicar as alterações sugeridas diretamente por meio da IU. Você pode fazer quaisquer outras alterações em seu fork e, em seguida, enviá-las para seu branch.
-- Conforme você atualiza seu PR e aplica as alterações, marque cada conversa como [resolvida](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request # resolving-conversations).
+- Conforme você atualiza seu PR e aplica as alterações, marque cada conversa como [resolvida](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request#resolving-conversations).
 - Se você tiver problemas de mesclagem, verifique este [tutorial git](https://lab.github.com/githubtraining/managing-merge-conflicts) para ajudá-lo a resolver conflitos de mesclagem e outros problemas.
 
 ### Seu PR foi mesclado!
